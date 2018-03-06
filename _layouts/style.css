@@ -1,2 +1,16 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+html, body {
+	height: 100%;
+}
+
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}

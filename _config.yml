@@ -1,17 +1,17 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: SANE.digital
+email: contact@sane.digital
+url: http://sane.digital
+description: "SANE.digital helps non-technical founders build their ideas and publish them on the App Store."
+keywords: "mobile dev, mobile development, mobile developer, mobile app, mobile apps, ios development, ios developer, ios dev, ios apps, ios app, iphone development, iphone developer, iphone dev, iphone apps, iphone app, android app, android apps, android dev, android developer, android development, ios agency, ios studio, mobile studio, mobile agency, android agency, android studio, product studio, product development, product design, ios design, mobile design, android design"
+skills: "We help non-technical founders build their ideas and publish them on the App Store."
+meta_author: Knight James
 
 # Google webmaster tools
-google_verify:
+# google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -19,30 +19,26 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: "000000" #80B3FF
+  primary-rgb: "0,0,0" #"128,179,255"
+  secondary: "202020"
+  secondary-dark: "101010" #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: SANE.digital
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact Us
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/sanedigital
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
@@ -52,11 +48,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Carrer Serrano Morales, 5
+  - line: 46004 Valencia, Spain
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Send us an email [here](mailto:james@sane.digtal)'
 
 # Build settings
 markdown: kramdown
